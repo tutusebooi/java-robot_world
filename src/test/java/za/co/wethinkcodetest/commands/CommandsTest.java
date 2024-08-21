@@ -1,32 +1,31 @@
-package za.co.wethinkcodetest.commands;
+// package za.co.wethinkcodetest.commands;
 
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+// import org.junit.jupiter.api.AfterEach;
+// import org.junit.jupiter.api.BeforeEach;
+// import org.junit.jupiter.api.Test;
 
-class CommandsTest {
+// class CommandsTest {
+//     //testig command using junit
+//     @BeforeEach
+//     void setUp() {
+//     }
+//     @AfterEach
+//     void tearDown() {
+//     }
 
-    @BeforeEach
-    void setUp() {
-    }
+//     @Test
+//     void execute_command() {
+//     }
 
-    @AfterEach
-    void tearDown() {
-    }
+//     @Test
+//     void getNameOfCommand() {
+//     }
 
-    @Test
-    void execute_command() {
-    }
+//     @Test
+//     void getArguments() {
+//     }
 
-    @Test
-    void getNameOfCommand() {
-    }
-
-    @Test
-    void getArguments() {
-    }
-
-    @Test
-    void createCommand() {
-    }
-}
+//     @Test
+//     void createCommand() {
+//     }
+// }
